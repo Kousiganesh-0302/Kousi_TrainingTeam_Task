@@ -1,0 +1,204 @@
+{
+    "expenses": [
+      {
+        "id": "exp001",
+        "vendor": "Amazon Web Services",
+        "amount": 250.75,
+        "category": "Cloud Services",
+        "date": "2025-05-20",
+        "status": "Approved"
+      },
+      {
+        "id": "exp002",
+        "vendor": "Dell Technologies",
+        "amount": 1200.00,
+        "category": "Hardware",
+        "date": "2025-05-15",
+        "status": "Pending"
+      },
+      {
+        "id": "exp003",
+        "vendor": "Google Ads",
+        "amount": 300.00,
+        "category": "Marketing",
+        "date": "2025-05-10",
+        "status": "Approved"
+      },
+      {
+        "id": "exp004",
+        "vendor": "Microsoft 365",
+        "amount": 50.00,
+        "category": "Software Subscriptions",
+        "date": "2025-05-01",
+        "status": "Approved"
+      },
+      {
+        "id": "exp005",
+        "vendor": "Uber Business",
+        "amount": 75.20,
+        "category": "Travel",
+        "date": "2025-04-28",
+        "status": "Rejected"
+      },
+      {
+        "id": "exp006",
+        "vendor": "Staples",
+        "amount": 85.50,
+        "category": "Office Supplies",
+        "date": "2025-04-25",
+        "status": "Approved"
+      },
+      {
+        "id": "exp007",
+        "vendor": "Salesforce",
+        "amount": 400.00,
+        "category": "CRM Software",
+        "date": "2025-04-20",
+        "status": "Pending"
+      },
+      {
+        "id": "exp008",
+        "vendor": "Jira Software",
+        "amount": 120.00,
+        "category": "Software Development Tools",
+        "date": "2025-04-18",
+        "status": "Approved"
+      },
+      {
+        "id": "exp009",
+        "vendor": "Local Cafe",
+        "amount": 35.00,
+        "category": "Meals & Entertainment",
+        "date": "2025-04-10",
+        "status": "Rejected"
+      },
+      {
+        "id": "exp010",
+        "vendor": "Adobe Creative Cloud",
+        "amount": 60.00,
+        "category": "Software Subscriptions",
+        "date": "2025-03-30",
+        "status": "Approved"
+      },
+      {
+        "id": "exp011",
+        "vendor": "AirBnB",
+        "amount": 650.00,
+        "category": "Travel",
+        "date": "2025-03-25",
+        "status": "Approved"
+      },
+      {
+        "id": "exp012",
+        "vendor": "Facebook Ads",
+        "amount": 180.00,
+        "category": "Marketing",
+        "date": "2025-03-20",
+        "status": "Approved"
+      },
+      {
+        "id": "exp013",
+        "vendor": "Zoom Video",
+        "amount": 15.00,
+        "category": "Communication Tools",
+        "date": "2025-03-15",
+        "status": "Approved"
+      },
+      {
+        "id": "exp014",
+        "vendor": "Office Depot",
+        "amount": 110.00,
+        "category": "Office Supplies",
+        "date": "2025-03-10",
+        "status": "Pending"
+      },
+      {
+        "id": "exp015",
+        "vendor": "Consulting Services Inc.",
+        "amount": 2500.00,
+        "category": "Professional Services",
+        "date": "2025-02-28",
+        "status": "Approved"
+      },
+      {
+        "id": "exp016",
+        "vendor": "AWS",
+        "amount": 300.00,
+        "category": "Cloud Services",
+        "date": "2025-02-20",
+        "status": "Approved"
+      },
+      {
+        "id": "exp017",
+        "vendor": "Mailchimp",
+        "amount": 40.00,
+        "category": "Marketing",
+        "date": "2025-02-15",
+        "status": "Approved"
+      },
+      {
+        "id": "exp018",
+        "vendor": "Gas Station",
+        "amount": 55.00,
+        "category": "Travel",
+        "date": "2025-02-10",
+        "status": "Approved"
+      },
+      {
+        "id": "exp019",
+        "vendor": "ServiceNow",
+        "amount": 750.00,
+        "category": "IT Services",
+        "date": "2025-01-30",
+        "status": "Rejected"
+      },
+      {
+        "id": "exp020",
+        "vendor": "WeWork",
+        "amount": 900.00,
+        "category": "Rent",
+        "date": "2025-01-25",
+        "status": "Approved"
+      },
+      {
+        "id": "exp021",
+        "vendor": "Slack",
+        "amount": 20.00,
+        "category": "Communication Tools",
+        "date": "2025-01-20",
+        "status": "Approved"
+      },
+      {
+        "id": "exp022",
+        "vendor": "Local Restaurant",
+        "amount": 120.00,
+        "category": "Meals & Entertainment",
+        "date": "2025-01-15",
+        "status": "Pending"
+      },
+      {
+        "id": "exp023",
+        "vendor": "Domain.com",
+        "amount": 12.99,
+        "category": "Web Services",
+        "date": "2024-12-30",
+        "status": "Approved"
+      },
+      {
+        "id": "exp024",
+        "vendor": "Google Workspace",
+        "amount": 30.00,
+        "category": "Software Subscriptions",
+        "date": "2024-12-25",
+        "status": "Approved"
+      },
+      {
+        "id": "exp025",
+        "vendor": "Travel Agency",
+        "amount": 1500.00,
+        "category": "Travel",
+        "date": "2024-12-20",
+        "status": "Approved"
+      }
+    ]
+  }

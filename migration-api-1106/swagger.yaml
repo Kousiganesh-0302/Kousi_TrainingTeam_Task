@@ -1,0 +1,39 @@
+openapi: 3.0.0
+info:
+  title: Sails CSRF API
+  version: 1.0.0
+servers:
+  - url: http://localhost:2025
+
+paths:
+  /set-session:
+    post:
+      summary: Set user session
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                example:
+                  type: string
+      responses:
+        '200':
+          description: OK
+      security:
+        - csrfAuth: []
+
+  /get-session:
+    get:
+      summary: Get current session
+      responses:
+        '200':
+          description: OK
+
+components:
+  securitySchemes:
+    csrfAuth:
+      type: apiKey
+      in: header
+      name: X-CSRF-Token

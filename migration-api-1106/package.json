@@ -1,0 +1,37 @@
+{
+  "name": "migration-api-1106",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "@sailshq/lodash": "^3.10.6",
+    "connect-redis": "^3.4.2",
+    "express-session": "^1.18.1",
+    "redis": "^3.1.2",
+    "sails": "^1.5.14",
+    "sails-hook-orm": "^4.0.3",
+    "sails-hook-sockets": "^3.0.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "5.16.0"
+  },
+  "scripts": {
+    "start": "NODE_ENV=production node app.js",
+    "test": "npm run lint && npm run custom-tests && echo 'Done.'",
+    "lint": "./node_modules/eslint/bin/eslint.js . --max-warnings=0 --report-unused-disable-directives && echo '✔  Your .js files look good.'",
+    "custom-tests": "echo \"(No other custom tests yet.)\" && echo"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ubuntugdkk/migration-api-1106.git"
+  },
+  "author": "ubuntugdkk",
+  "license": "",
+  "engines": {
+    "node": "^18.20"
+  }
+}

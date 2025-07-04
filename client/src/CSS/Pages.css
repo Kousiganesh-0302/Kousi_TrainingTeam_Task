@@ -1,0 +1,11 @@
+.ant-layout-header h2 {
+    color: #333;
+}
+
+.success-message {
+    color: green;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 15px;
+    padding: 0 20px;
+ }

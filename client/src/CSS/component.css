@@ -1,0 +1,33 @@
+
+.btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    opacity: 0.9;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn.btn-success:hover {
+    background-color: #218838 !important;
+    border-color: #1e7e34 !important;
+}
+
+.btn.btn-warning:hover {
+    background-color: #e0a800 !important;
+    border-color: #d39e00 !important;
+}
+
+.btn.btn-danger:hover {
+    background-color: #c82333 !important;
+    border-color: #bd2130 !important;
+}
+
+.btn.btn-dark:hover {
+    background-color: #23272b !important;
+    border-color: #1d2124 !important;
+}
+
+.btn.btn-info:hover {
+    background-color: #138496 !important;
+    border-color: #117a8b !important; }
+
+    
